@@ -40,7 +40,7 @@
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/YOUR_USERNAME/club-charter-expert
+git clone https://github.com/XenoN-08/mp-srs3
 cd club-charter-expert
 
 # 2. Установить зависимости
